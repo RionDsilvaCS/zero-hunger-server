@@ -1,4 +1,4 @@
-module zeroHunger
+module github.com/RionDsilvaCS/zeroHunger
 
 go 1.21
 

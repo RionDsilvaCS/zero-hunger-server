@@ -1,8 +1,8 @@
 package main
 
 import (
-	"zeroHunger/database"
-	"zeroHunger/routes"
+	"github.com/RionDsilvaCS/zeroHunger/database"
+	"github.com/RionDsilvaCS/zeroHunger/routes"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"

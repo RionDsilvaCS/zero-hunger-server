@@ -3,7 +3,7 @@ package database
 import (
 	// "log"
 	"os"
-	"zeroHunger/models"
+	"github.com/RionDsilvaCS/zeroHunger/models"
 
 	// "github.com/joho/godotenv"
 	"gorm.io/driver/postgres"

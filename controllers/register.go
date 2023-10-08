@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"zeroHunger/database"
-	"zeroHunger/models"
+	"github.com/RionDsilvaCS/zeroHunger/database"
+	"github.com/RionDsilvaCS/zeroHunger/models"
 
 	"github.com/gofiber/fiber/v2"
 	"golang.org/x/crypto/bcrypt"
