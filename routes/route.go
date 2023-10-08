@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"zeroHunger/controllers"
+	"github.com/RionDsilvaCS/zeroHunger/controllers"
 
 	"github.com/gofiber/fiber/v2"
 )
